@@ -4,7 +4,7 @@
 version = 1
 SPDX-PackageName = "SetupWizard"
 SPDX-PackageSupplier = "The LineageOS Project"
-SPDX-PackageDownloadLocation = "https://github.com/LineageOS/android_packages_apps_SetupWizard"
+SPDX-PackageDownloadLocation = "https://github.com/CaesiumOS/android_packages_apps_SetupWizard"
 
 [[annotations]]
 path = ["res/raw/lottie_system_nav_3_button.json", "res/raw/lottie_system_nav_fully_gestural.json"]
