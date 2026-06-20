@@ -12,14 +12,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <ImageView
-            style="@style/SudContentFrame"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:contentDescription="@string/grapheneos_icon"
-            android:src="@drawable/grapheneos_icon" />
-
         <LinearLayout
             android:id="@+id/disable_oem_unlocking_container"
             style="@style/SudContentFrame"
